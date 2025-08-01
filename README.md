@@ -7,7 +7,7 @@ Includes authentication, protected routes, and full task CRUD — all simulated 
 
 ## 🔗 Live Demo
 
-👉 [View Live App](https://your-vercel-or-netlify-link.com)  
+👉 [View Live App](https://task-manager-app-three-flame.vercel.app/)  
 
 ---
 
